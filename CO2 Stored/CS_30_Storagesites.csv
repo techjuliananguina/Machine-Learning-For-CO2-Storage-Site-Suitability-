@@ -1,0 +1,31 @@
+lat,lon,unitdesignate_trans,shallowestdepthml,formationtempml,porosityml,storagepermeabilityml [mD],grossthicknessml,ntgml,porepressureml [Mpa],fracturepressureml [Mpa],predominant_lithology_trans,stratigraphy_group_trans,storage_unit_type_trans,sealreactivity_failure_trans,welldensity_likelihood_trans,vintage_likelihood_trans,activeoilproduction,activegasproduction,activewaterinjection
+53.891354,0.843425,Saline Aquifer,65.06,12.2771,,,229.5,,,1.249152,,Bacton Group,,Low,Low,Medium,6,902,1
+58.68512,1.378308,Saline Aquifer,3586,122.57,0.16,600,600.08,0.8,73.79,74.2138,,Humber Group,Fully Confined (closed box),Medium,High,Medium,40,13,11
+54.500856,2.65933,Saline Aquifer,1556.11,64.46,0.14,15,113.25,0.76,15.7,29.877312,Sandstone,Bacton Group,Open  with identified structural/ stratigraphic confinement,Low,Low,Low,0,5,0
+56.594759,1.799228,Saline Aquifer,2289,92.69,0.19,5,179.93,0.85,27.9,44.0013,,Rotliegend Group,Fully Confined (closed box),Medium,Medium,Medium,163,59,15
+53.376221,0.494566,Saline Aquifer,1022.34,45.7819,0.14,350,145.91,0.86,10.3,19.628928,Sandstone,Bacton Group,Open  no identified structural/ stratigraphic confinement,Low,Low,High,0,22,0
+58.573,-1.237,Saline Aquifer,800,33.6,0.06,10,379.5,0.2,8.1,12.8,,Middle Old Red Group,Open  no identified structural/ stratigraphic confinement,High,Medium,Medium,160,0,16
+58.15,-2.003,Saline Aquifer,800,33.6,0.17,38,575.5,0.7,8.1,12.8,,Middle Old Red Group,Open  no identified structural/ stratigraphic confinement,Medium,Medium,Medium,59,0,17
+58.188223,1.481203,Saline Aquifer,3132,128.58,0.16,160,312.75,0.6,46,62.2944,,Fladen Group,Fully Confined (closed box),Medium,Medium,Medium,11,0,0
+58.170157,0.207655,Saline Aquifer,2169,81.74,0.23,1284,52.68,0.98,21.8,41.3973,,Humber Group,Fully Confined (closed box),Medium,High,High,13,0,5
+58.393653,-1.687148,Saline Aquifer,800,36,0.31,7000,123,0.95,8,13.59,,Cromer Knoll Group,Open  with identified structural/ stratigraphic confinement,Medium,Medium,Low,24,0,11
+53.086962,1.851217,Gas,1676,70.6305,0.14,75,208,0.98,17.7,,Sandstone,Rotliegend Group,Structural/Stratigraphic Trap,Low,High,High,0,4,0
+53.04442,1.865417,Gas,1661,102.3454,0.19,450,198,0.98,17.4,,Sandstone,Rotliegend Group,Structural/Stratigraphic Trap,Low,Medium,High,0,1,0
+53.296441,2.460179,Gas,2286,90.9949,0.15,30,53,0.98,23.7,,Sandstone,Rotliegend Group,Structural/Stratigraphic Trap,Low,Medium,High,0,47,0
+53.767896,0.643787,Gas,2697,102.395,0.13,59,26,0.84,28.6,,Sandstone,Rotliegend Group,Structural/Stratigraphic Trap,Low,Low,High,0,2,0
+56.400382,2.090651,Oil & Gas,,,,,,,,,,Rotliegend Group,Structural/Stratigraphic Trap,Unknown,Medium,High,29,0,0
+57.021135,1.953147,Gas Condensate,,,,,,,,,Sandstone,Humber Group,Structural/Stratigraphic Trap,Unknown,High,Low,1,5,0
+58.339852,-0.101304,Oil & Gas,,,,,,,,,Sandstone,Humber Group,Structural/Stratigraphic Trap,Unknown,Medium,High,1,0,0
+58.07604,0.996998,Gas Condensate,3596.64,144.67,,60,76.2,,40.9,,,Cromer Knoll Group,Structural/Stratigraphic Trap,Medium,High,Low,85,48,3
+53.72215416,2.850233317,Gas,,,,,,,,,Sandstone,Conybeare Group,Structural/Stratigraphic Trap,,,,0,4,0
+57.42010529,1.230385598,Gas Condensate,,,,,,,,,Sandstone,M / U Jurassic sands,Structural/Stratigraphic Trap,,,,0,1,0
+59.95,1.9,Saline Aquifer,3275,102.9,0.16,40,181.3,0.64,75.58,65.3975,,Heron Group,Fully Confined (closed box),Medium,Low,Medium,0,0,0
+59.551775,1.778049,Saline Aquifer,3336,101.8,0.2,75,215.5,0.8,66.19,66.7212,,Fladen Group,Fully Confined (closed box),High,Low,High,0,0,0
+57.676533,1.311481,Saline Aquifer,3133,127.05,0.17,17.5,69.75,0.67,48.8,62.3161,,Humber Group,Fully Confined (closed box),Medium,Medium,Low,3,0,0
+58.020657,-2.882098,Saline Aquifer,800,36,0.15,400,40,0.4,8.1,12.8,,Dunrobin Bay Group,Open  no identified structural/ stratigraphic confinement,High,Low,High,42,0,11
+60.9,1.25,Saline Aquifer,2869,101.24,0.16,40,1241.5,0.64,46.48,56.5873,,Heron Group,Fully Confined (closed box),Medium,High,High,331,0,13
+61.22,1.03,Saline Aquifer,2678,101.73,0.16,40,415.33,0.5,34.55,52.4426,,Heron Group,Fully Confined (closed box),High,High,Medium,160,0,27
+58.26,-2.18,Saline Aquifer,800,34,0.13,5.03,283.4,0.8,8.1,12.8,,Heron Group,Open  no identified structural/ stratigraphic confinement,Medium,Low,High,42,0,11
+58.18,1.55,Saline Aquifer,3094,125.57,0.13,5.03,182.86,0.2,45.6,61.4698,,Heron Group,Fully Confined (closed box),Medium,Medium,High,5,0,0
+54.583221,1.428973,Gas,1366,57.45475,0.18,,135,0.8,14.8,,Sandstone,Bacton Group,Structural/Stratigraphic Trap,Low,Low,High,0,5,0
+54.683773,1.499463,Gas,1720,70.3484,0.18,,135,0.8,18.9,,Sandstone,Bacton Group,Structural/Stratigraphic Trap,Low,Low,High,0,2,0

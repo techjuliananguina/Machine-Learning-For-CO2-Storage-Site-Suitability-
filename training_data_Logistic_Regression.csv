@@ -1,0 +1,57 @@
+geographic_area_trans,sealFailure,lithostrat_name_sec (seal/caprock),depth,porosity,permeability,crThickness,stratGroup,distToWell,distToLicence,distToPipeline,distToEmissions,MinTotalCost,depthR,permeabilityR,crThicknessR,suitability
+Southern North Sea,Low,Haisborough Group,3132,0.16,160,171.54,Sandstone-dominated (Good),25.27,10.2,8.71,17.3,151051.05,31.32,1.6,1.7154,1
+Central North Sea,Medium,Cromer Knoll Group,3094,0.13,5.03,171.54,Sandstone-dominated (Good),25.53,106.18,1.05,12.11,256634.05,30.94,0.0503,1.7154,1
+Southern North Sea,Low,Haisborough Group,2070.87,0.18,747.53,171.54,Sandstone-dominated (Good),25.28,0,17.9,20.68,321294.37,20.7087,7.4753,1.7154,1
+Central North Sea,Medium,Smith Bank Formation,65.06,0.16,867.01,171.53,Sandstone-dominated (Good),25.39,185.89,10.86,24.71,243752.9,0.6506,8.6701,1.7153,1
+Southern North Sea,Low,Haisborough Group,2070.87,0.19,777.32,82,Sandstone-dominated (Good),64.33,0,11.16,30.2,253484.42,20.7087,7.7732,0.82,1
+Central North Sea,High,Kyle Mudstone,2070.87,0.3,7500,171.54,Sandstone-dominated (Good),36.39,73.27,12.84,43.28,1936.39,20.7087,75,1.7154,1
+Central North Sea,Medium,Kyle Limestone,3586,0.16,600,336,Sandstone-dominated (Good),6.18,89.45,21.31,21.8,1935.72,35.86,6,3.36,1
+Central North Sea,Medium,Mackerel Formation,2070.87,0.19,777.32,82,Sandstone-dominated (Good),13.71,88.43,2.87,16.24,1108494.39,20.7087,7.7732,0.82,1
+Central North Sea,Medium,Chalk Group,2070.88,0.1,0,171.54,Sandstone-dominated (Good),14.64,16.93,0.75,10.58,683849.05,20.7088,0,1.7154,1
+Central North Sea,Medium,Chalk Group,2070.88,0.17,705.73,367,Sandstone-dominated (Good),14.56,80.03,7.25,11.46,2658.58,20.7088,7.0573,3.67,1
+Southern North Sea,Low,Bunter Shale,800,0.35,1100,250,Sandstone-dominated (Good),18.1,0,0.12,12.92,27966.2,8,11,2.5,1
+Southern North Sea,Low,Bunter Shale,2070.86,0.37,2000,82,Sandstone-dominated (Good),22.13,0,0.46,14.03,502335.02,20.7086,20,0.82,1
+Southern North Sea,Low,Bunter Shale,1962.67,0.22,1467.83,113,Sandstone-dominated (Good),55.43,0,2.65,11.59,231045.7,19.6267,14.6783,1.13,1
+Southern North Sea,Low,Zechstein Grp.,2111.57,0.21,1413.8,192.04,Sandstone-dominated (Good),23.55,5.19,0.18,14.2,605309.51,21.1157,14.138,1.9204,1
+Central North Sea,Medium,Haisborough Group,1676,0.14,75,115,Sandstone-dominated (Good),26.55,187.45,2.15,4.09,810884.75,16.76,0.75,1.15,1
+Central North Sea,Medium,Haisborough Group,2773.4,0.05,5,82,Sandstone-dominated (Good),36.42,156.3,0.99,1.29,172753.42,27.734,0.05,0.82,1
+Central North Sea,Medium,Haisborough Group,1840.54,0.22,1496.29,82,Sandstone-dominated (Good),40.34,30.5,2.32,14.79,83383.21,18.4054,14.9629,0.82,1
+Central North Sea,Medium,Rodby Formation,2289,0.19,5,192.04,Sandstone-dominated (Good),13.32,58.94,1.86,4.86,9517.96,22.89,0.05,1.9204,1
+Southern North Sea,Low,Haisborough Group,800,0.13,5.03,192.03,Sandstone-dominated (Good),88.13,31.11,0.66,1.42,20439.73,8,0.0503,1.9203,1
+Central North Sea,Medium,Chalk Group,800,0.06,10,192.04,Sandstone-dominated (Good),19.02,94.21,0.06,11.32,43260.44,8,0.1,1.9204,1
+Northern North Sea,Medium,Dunlin Group,2111.57,0.21,1413.8,192.04,Sandstone-dominated (Good),11.82,154.78,9.09,31.53,1040.82,21.1157,14.138,1.9204,1
+Northern North Sea,High,Macbeth Formation,1720,0.18,10,192.04,Sandstone-dominated (Good),8.32,194.84,4.9,13.93,612.28,17.2,0.1,1.9204,1
+Central North Sea,Medium,Mackerel Formation,800,0.17,38,192.03,Sandstone-dominated (Good),5.95,83.76,4.48,10.88,1224.55,8,0.38,1.9203,1
+Central North Sea,High,Heather Formation,1840.54,0.22,1496.29,82,Sandstone-dominated (Good),35.28,140.75,14.85,39.11,612.28,18.4054,14.9629,0.82,1
+Northern North Sea,Medium,Heather Formation,2001.15,0.05,5,82,Sandstone-dominated (Good),28.37,49.6,1.02,12.2,12255,20.0115,0.05,0.82,1
+Northern North Sea,High,Dunlin Group,2001.14,0.18,910.87,113,Sandstone-dominated (Good),17.18,26.5,4.02,7.23,118370.67,20.0114,9.1087,1.13,1
+Central North Sea,Medium,Dunrobin Bay Fm,3336,0.2,75,199.04,Sandstone-dominated (Good),17.04,101.87,24.43,24.95,25909.07,33.36,0.75,1.9904,1
+Central North Sea,Medium,Valhall Formation,2001.13,0.3,10,113,Sandstone-dominated (Good),10.65,92.31,3.75,16.98,1788200.96,20.0113,0.1,1.13,1
+Southern North Sea,Low,Haisborough Group,2500,0.28,790,180,Sandstone-dominated (Good),8.7,3.77,3.62,33.12,2916.5,25,7.9,1.8,1
+Southern North Sea,Low,Haisborough Group,2001.11,0.4,3607.74,82,Sandstone-dominated (Good),19.58,14.97,8.49,44.01,533.33,20.0111,36.0774,0.82,1
+Southern North Sea,Low,Nordland Group,1366,0.18,10,199.04,Sandstone-dominated (Good),87.96,180.76,80.42,87.34,1777.93,13.66,0.1,1.9904,1
+Central North Sea,Medium,Cromer Knoll Group ,3133,0.17,17.5,199.04,Sandstone-dominated (Good),61.48,92.88,10.67,0.01,18093.13,31.33,0.175,1.9904,1
+Southern North Sea,Low,Zechstein Group,2001.12,0.33,5000,82,Shale-dominated (Bad),113.86,72.5,74.08,78.69,1250591.49,20.0112,50,0.82,1
+Central North Sea,Medium,Chalk Group,1661,0.19,450,115,Shale-dominated (Bad),3.73,120.53,3.87,9.59,2124.3,16.61,4.5,1.15,0
+Central North Sea,High,Chalk Group,2286,0.15,30,115,Shale-dominated (Bad),40.1,154.9,30.16,31.22,1332707.22,22.86,0.3,1.15,0
+Central North Sea,Medium,Chalk Group,2001.15,0.08,0,199.04,Sandstone-dominated (Good),31.2,95.83,4.95,8.45,5952987.38,20.0115,0,1.9904,0
+Southern North Sea,Low,Haisborough Group,2006.76,0.25,3300,82,Shale-dominated (Bad),27.53,197.42,29.18,39.46,4443769.88,20.0676,33,0.82,1
+Southern North Sea,Low,Haisborough Group,2006.9,0.21,1095.12,113,Sandstone-dominated (Good),32.48,44.05,3.74,10.01,5955569.48,20.069,10.9512,1.13,0
+Central North Sea,High,Chalk Group,3275,0.16,40,179.97,Shale-dominated (Bad),31.55,67.86,0.11,17.91,64454.55,32.75,0.4,1.7997,1
+Central North Sea,Medium,Chalk Group,1556.11,0.14,15,179.96,Shale-dominated (Bad),32.88,54.34,3.41,5.75,1398412.26,15.5611,0.15,1.7996,0
+Central North Sea,High,Chalk Group,3596.64,0.19,60,123,Shale-dominated (Bad),39.5,49.05,2.17,3.25,1736285.08,35.9664,0.6,1.23,0
+Central North Sea,Medium,Chalk Group,2006.93,0.08,100,82,Shale-dominated (Bad),12.49,91.71,5.58,9.12,114905.83,20.0693,1,0.82,0
+Southern North Sea,Low,Chalk Group,2006.86,0.21,1119.66,82,Shale-dominated (Bad),164.4,142.28,98.59,161.67,6843843.51,20.0686,11.1966,0.82,0
+Northern North Sea,High,Heather Formation,1022.34,0.14,350,179.96,Shale-dominated (Bad),156.3,138.57,90,156.28,23364.87,10.2234,3.5,1.7996,0
+Central North Sea,Medium,Haisborough Group,2006.86,0.25,3300,179.96,Shale-dominated (Bad),195.38,155.5,133.46,181.02,2442474.84,20.0686,33,1.7996,0
+Northern North Sea,High,Heather Formation,2006.98,0.2,1018.59,179.96,Shale-dominated (Bad),103.9,178.98,62.65,120.86,2366675.44,20.0698,10.1859,1.7996,0
+Southern North Sea,Low,Haisborough Group,2007.05,0.1,0,179.96,Shale-dominated (Bad),6.64,17.47,14.09,30.87,1254789.17,20.0705,0,1.7996,0
+Southern North Sea,Low,Haisborough Group,2697,0.13,59,498,Shale-dominated (Bad),31.44,5.7,2.41,9.77,2.57,26.97,0.59,4.98,0
+Central North Sea,High,Chalk Group,800,0.31,7000,367,Shale-dominated (Bad),164.4,142.28,98.59,161.67,5092.76,8,70,3.67,0
+Central North Sea,Medium,Chalk Group,2869,0.16,40,113,Shale-dominated (Bad),195.38,155.5,133.46,181.02,3210.78,28.69,0.4,1.13,0
+Central North Sea,High,Chalk Group,2678,0.16,40,141.4,Shale-dominated (Bad),156.3,138.57,90,156.28,13109.62,26.78,0.4,1.414,0
+Central North Sea,Medium,Chalk Group,2054.13,0.2,1495,82,Shale-dominated (Bad),103.9,178.98,62.65,120.86,14782.76,20.5413,14.95,0.82,0
+Northern North Sea,High,Heather Formation,800,0.15,400,113,Shale-dominated (Bad),34.59,15.14,17.66,11.87,7062.78,8,4,1.13,0
+Central North Sea,Medium,Chalk Group,3800,0.13,113,1000,Shale-dominated (Bad),39.6,156.71,27.83,31.44,6464.75,38,1.13,10,0
+Central North Sea,High,Chalk Group,2054.14,0.2,268.3,82,Shale-dominated (Bad),15.52,197.25,0.13,0.5,7276356.66,20.5414,2.683,0.82,0
+Northern North Sea,Medium,Heather Formation,2169,0.23,1284,367,Shale-dominated (Bad),34.72,62.17,6.53,13.26,47157.91,21.69,12.84,3.67,0
